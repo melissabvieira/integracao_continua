@@ -1,0 +1,39 @@
+{ 
+
+  "name": "integra_continua", 
+
+  "version": "1.0.0", 
+
+  "description": "", 
+
+  "main": "index.js", 
+
+  "scripts": { 
+
+    "start": "node src/app.js", 
+
+    "test": "jest",       
+
+    "dev": "nodemon src/app.js" 
+
+  }, 
+
+  "keywords": [], 
+
+  "author": "", 
+
+  "license": "ISC", 
+
+  "dependencies": { 
+
+    "express": "^4.19.2" 
+
+  }, 
+
+  "devDependencies": { 
+
+    "jest": "^29.7.0" 
+
+  } 
+
+} 
